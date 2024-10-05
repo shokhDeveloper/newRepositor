@@ -6,3 +6,4 @@ console.log("Version 1");
 // git checkout -b branch_name (BRANCH CREATE -> git checkout BRANCH_NAME)
 
 // Binali
+// Og'abek
