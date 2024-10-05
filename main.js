@@ -7,3 +7,4 @@ console.log("Version 1");
 
 // Binali
 // Og'abek
+// Shamsiddin
